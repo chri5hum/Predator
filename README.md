@@ -17,16 +17,17 @@ As the prey, find your way around the labyrinth using echolocation. Use stealth 
 As the predator, listen for your prey's movements to catch them. The hunt begins...
 
 ## Coded Features:
-Single Player
-- Pathfinding AI
-- Map Generation using Conway’s Game of Life (RIP John)
-- Ambient music and sound effects for atmosphere
-- Prey stealth and exhaustion systems
-- Predator hearing and leap systems
 
 Multiplayer Specific
 - Map Serialization (for cloning map)
-- Socket implementation for multiple players
+- Socket implementation for game synchronization with multiple players
+
+Single Player
+- Pathfinding AI
+- Map Generation using Conway’s Game of Life (RIP)
+- Ambient music and sound effects for atmosphere
+- Prey stealth and exhaustion systems
+- Predator hearing and leap systems
 
 Tutorial
 - Tutorial AI
