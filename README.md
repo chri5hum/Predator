@@ -2,6 +2,12 @@
 Android App Store Link: https://play.google.com/store/apps/details?id=com.Me.Predator
 
 Inspired by Dark Echo
+
+## Metrics
+
+2k+ Downloads
+![alt text](https://github.com/chri5hum/Predator/blob/master/predator_installs_feb_2021.png)
+
 ## Description:
 
 Play as hunter or hunted.
